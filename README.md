@@ -1,6 +1,7 @@
 # python_iris
 python iris 分类 机器学习笔记
 
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -60,3 +61,5 @@ for name,clf in models.items():
     plt.xlabel(iris.feature_names[2])
     plt.ylabel(iris.feature_names[3])
     plt.show()
+    
+    ```
