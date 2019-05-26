@@ -61,5 +61,4 @@ for name,clf in models.items():
     plt.xlabel(iris.feature_names[2])
     plt.ylabel(iris.feature_names[3])
     plt.show()
-    
-    ```
+ ```
